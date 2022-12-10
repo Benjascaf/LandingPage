@@ -75,3 +75,26 @@ button {
     padding: 5px;
     margin-top:10px;
 }
+
+.middle-bottom {
+    background-color: #E5E7EB;
+    text-align: start;
+    padding: 100px 300px;
+}   
+.inspirational-quote {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.quote {
+    font-weight: 300;
+    font-style: italic;
+    font-size: 34px;
+}
+
+.quotient {
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 20px;
+}
